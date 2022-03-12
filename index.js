@@ -1,0 +1,1 @@
+const linkscanning = require('linkscanningbot');
